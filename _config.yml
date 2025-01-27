@@ -1,3 +1,4 @@
-title: "My Cybersecurity Hub"
-description: "Learn cybersecurity through articles, videos, and tutorials."
-theme: minima
+
+title: "My Cybersecurity Blog"
+description: "Sharing insights on cybersecurity, tools, and tutorials."
+theme: jekyll-theme-minimal
