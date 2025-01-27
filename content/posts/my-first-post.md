@@ -2,6 +2,7 @@
 ---
 "My First Cybersecurity Article"
 2025-01-27
+
 ---
 
 Welcome to my first post on cybersecurity! In this article, I'll cover the basics of SOC operations. This will be an introductory guide to help you understand how Security Operations Centers work and what skills are necessary for SOC analysts.
