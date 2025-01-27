@@ -1,4 +1,11 @@
+baseURL = "https://learninganonymous.github.io/"
+languageCode = "en-us"
+title = "My Cybersecurity Blog"
+theme = "relearn"
 
-title: "My Cybersecurity Blog"
-description: "Sharing insights on cybersecurity, tools, and tutorials."
-theme: jekyll-theme-minimal
+# Optional: You can add more customization settings below
+
+# Example for adding social media links
+# [params]
+#   github = "https://github.com/username"
+#   twitter = "https://twitter.com/username"
