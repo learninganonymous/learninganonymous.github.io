@@ -1,6 +1,6 @@
 
 ---
-"My First Cybersecurity Article"
+# "My First Cybersecurity Article"
 2025-01-27
 
 ---
