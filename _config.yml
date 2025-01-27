@@ -1,6 +1,6 @@
 baseURL = "https://learninganonymous.github.io/"
 languageCode = "en-us"
-title = "My Cybersecurity Blog"
+title = "my-cybersecurity-blog"
 theme = "themes/relearn"
 
 # Optional: You can add more customization settings below
